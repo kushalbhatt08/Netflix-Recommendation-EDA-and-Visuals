@@ -17,5 +17,6 @@ Project also contains dataset of **BOOKS** for finding out how many movies/shows
  I tested this system on some famous Netflix TV shows and Movies such as **F.R.I.E.N.D.S.**, **PEAKY BLINDERS**, **NARCOS**, **3 IDIOTS**.
 
   # 🟠Thank You:
-  Thank you so much, corrections and suggestions are welcome😉 
-  KUSHAl BHATT
+  Thank you so much, corrections and suggestions are welcome😉
+  
+  Kushal Bhatt
